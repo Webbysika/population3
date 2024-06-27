@@ -1,0 +1,10 @@
+name: demo
+title: demo
+username: zamstats2024
+account: zamstats2024
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12106892
+bundleId: 8686939
+url: https://zamstats2024.shinyapps.io/demo/
+version: 1
